@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8248a90a8587a9a1244eceb20d957722",
+    "revision": "bb47bc3896a9b2b2d6039f74db70934b",
     "url": "/letters-game/index.html"
   },
   {
-    "revision": "ab88a2c44e761596d19b",
+    "revision": "e2361a5b9be0be6f2631",
     "url": "/letters-game/static/css/main.b685bc23.chunk.css"
   },
   {
-    "revision": "69ff784f2e6ea14a811d",
-    "url": "/letters-game/static/js/2.5cf55d8a.chunk.js"
+    "revision": "59a59782ef0670f798a2",
+    "url": "/letters-game/static/js/2.10ba215b.chunk.js"
   },
   {
     "revision": "46f63f8626516ab37e48a023f0c6fcd4",
-    "url": "/letters-game/static/js/2.5cf55d8a.chunk.js.LICENSE.txt"
+    "url": "/letters-game/static/js/2.10ba215b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ab88a2c44e761596d19b",
-    "url": "/letters-game/static/js/main.fb701939.chunk.js"
+    "revision": "e2361a5b9be0be6f2631",
+    "url": "/letters-game/static/js/main.05dfc013.chunk.js"
   },
   {
     "revision": "1075ea50a708d5c4922e",

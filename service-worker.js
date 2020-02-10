@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/letters-game/precache-manifest.687e0713f5904419e151332cc6a88c6c.js"
+  "/letters-game/precache-manifest.f5c6406731c69e4d3f35a97060541cb8.js"
 );
 
 self.addEventListener('message', (event) => {
