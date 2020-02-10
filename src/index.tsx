@@ -2,20 +2,19 @@ import * as React from 'react';
 import ReactDOM from 'react-dom';
 
 import { Provider } from 'react-redux';
-import { Router } from 'react-router-dom';
+import { BrowserRouter } from 'react-router-dom';
 
 import Game from './Game';
 
 import store from './store/store';
-import history from './config/browserHistory';
 import {routes} from './config/routes';
 
 import './index.scss';
 
 ReactDOM.render(
     <Provider store={store}>
-        <Router history={history}>
+        <BrowserRouter basename="/letters-game">
             <Game routes={routes}  />
-        </Router>
+        </BrowserRouter>
     </Provider>
     , document.getElementById( 'root' ) );
