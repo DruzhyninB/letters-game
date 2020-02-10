@@ -1,0 +1,20 @@
+.menu{
+    flex:0;
+    &-wrapper{
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+    }
+    &-col{
+        
+    }
+    &-title{
+
+    }
+    &-subtitle{
+        font-size: 15px;
+        color: gray;
+        letter-spacing: 0.1em;
+    }
+
+}

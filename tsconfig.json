@@ -7,6 +7,8 @@
       "esnext"
     ],
     "allowJs": true,
+    "sourceMap": true,
+    "baseUrl": "./src",
     "skipLibCheck": true,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
@@ -19,6 +21,11 @@
     "noEmit": true,
     "jsx": "react"
   },
+  "exclude": [
+    "node_modules",
+    "build",
+    "public"
+  ],
   "include": [
     "src"
   ]
