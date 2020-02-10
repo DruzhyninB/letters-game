@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/letters-game/static/css/main.b685bc23.chunk.css",
+    "main.js": "/letters-game/static/js/main.fb701939.chunk.js",
+    "main.js.map": "/letters-game/static/js/main.fb701939.chunk.js.map",
+    "runtime-main.js": "/letters-game/static/js/runtime-main.0f903a1b.js",
+    "runtime-main.js.map": "/letters-game/static/js/runtime-main.0f903a1b.js.map",
+    "static/js/2.5cf55d8a.chunk.js": "/letters-game/static/js/2.5cf55d8a.chunk.js",
+    "static/js/2.5cf55d8a.chunk.js.map": "/letters-game/static/js/2.5cf55d8a.chunk.js.map",
+    "index.html": "/letters-game/index.html",
+    "precache-manifest.687e0713f5904419e151332cc6a88c6c.js": "/letters-game/precache-manifest.687e0713f5904419e151332cc6a88c6c.js",
+    "service-worker.js": "/letters-game/service-worker.js",
+    "static/css/main.b685bc23.chunk.css.map": "/letters-game/static/css/main.b685bc23.chunk.css.map",
+    "static/js/2.5cf55d8a.chunk.js.LICENSE.txt": "/letters-game/static/js/2.5cf55d8a.chunk.js.LICENSE.txt",
+    "static/media/zoovu-o.svg": "/letters-game/static/media/zoovu-o.987e802d.svg",
+    "static/media/zoovu-u.svg": "/letters-game/static/media/zoovu-u.509452d2.svg",
+    "static/media/zoovu-v.svg": "/letters-game/static/media/zoovu-v.f04e5e7e.svg",
+    "static/media/zoovu-z.svg": "/letters-game/static/media/zoovu-z.98d275b2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f903a1b.js",
+    "static/js/2.5cf55d8a.chunk.js",
+    "static/css/main.b685bc23.chunk.css",
+    "static/js/main.fb701939.chunk.js"
+  ]
+}
